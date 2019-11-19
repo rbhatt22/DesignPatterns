@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/creationalPatterns/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BehavioralPatterns/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BehavioralPatterns/src/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BehavioralPatterns/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Algorithms/src/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/BehavioralPatterns/target/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/BehavioralPatterns/target/test-classes" />
+      <excludeFolder url="file://$MODULE_DIR$/target/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/target/test-classes" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

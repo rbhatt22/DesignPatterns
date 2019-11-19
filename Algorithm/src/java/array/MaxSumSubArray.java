@@ -1,4 +1,4 @@
-package com.practice.algo.array;
+package array;
 
 import static java.lang.Integer.max;
 

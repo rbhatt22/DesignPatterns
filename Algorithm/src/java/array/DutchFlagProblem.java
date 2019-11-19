@@ -1,4 +1,4 @@
-package com.practice.algo.array;
+package array;
 
 import java.util.Arrays;
 
