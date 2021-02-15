@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Algorithm/Algorithm.iml" filepath="$PROJECT_DIR$/Algorithm/Algorithm.iml" />
       <module fileurl="file://$PROJECT_DIR$/BehavioralPatterns/BehavioralPatterns.iml" filepath="$PROJECT_DIR$/BehavioralPatterns/BehavioralPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" filepath="$PROJECT_DIR$/CreationalPatterns/CreationalPatterns.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/DesignPatterns.iml" filepath="$PROJECT_DIR$/.idea/DesignPatterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" filepath="$PROJECT_DIR$/StructuralPatterns/StructuralPatterns.iml" />
     </modules>
   </component>
 </project>

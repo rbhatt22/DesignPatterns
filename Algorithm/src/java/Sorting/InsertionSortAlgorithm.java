@@ -2,9 +2,7 @@ package Sorting;
 
 import java.util.Arrays;
 
-/**
- * Created by rbhatt22 on 12/28/19.
- */
+//Insertion sort algorithm
 public class InsertionSortAlgorithm {
 
     public void insertionSort(int[] a) {
